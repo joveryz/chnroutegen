@@ -1,0 +1,23 @@
+name: gen chnroute
+
+on:
+  schedule:
+    - cron: "2 0/1 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: gen chnroute
+      run: |
+        chmod +x gen.sh
+        ./gen.sh
+        
+    - name: Commit & Push changes
+      uses: actions-js/push@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
