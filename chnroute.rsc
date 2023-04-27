@@ -1867,7 +1867,6 @@ add list=fal-chn address=101.37.0.0/16 comment=chnroute
 add list=fal-chn address=101.38.0.0/15 comment=chnroute
 add list=fal-chn address=101.40.0.0/15 comment=chnroute
 add list=fal-chn address=101.42.0.0/15 comment=chnroute
-add list=fal-chn address=101.47.0.0/16 comment=chnroute
 add list=fal-chn address=101.48.0.0/15 comment=chnroute
 add list=fal-chn address=101.50.8.0/22 comment=chnroute
 add list=fal-chn address=101.50.12.0/22 comment=chnroute
