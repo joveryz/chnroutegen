@@ -16,6 +16,7 @@ jobs:
       run: |
         chmod +x gen.sh
         ./gen.sh
+        git status
         git checkout -- gen.sh
         
     - name: Commit & Push changes
