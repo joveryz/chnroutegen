@@ -18,3 +18,4 @@ echo "add list=fal-chn address=172.16.69.0/24 comment=chnroute"
 
 cd ..
 rm -rf ./tmp
+git status
