@@ -4986,6 +4986,7 @@ add list=fal-chn address=103.237.24.0/22 comment=chnroute
 add list=fal-chn address=103.237.28.0/22 comment=chnroute
 add list=fal-chn address=103.237.68.0/22 comment=chnroute
 add list=fal-chn address=103.237.88.0/22 comment=chnroute
+add list=fal-chn address=103.237.92.0/23 comment=chnroute
 add list=fal-chn address=103.237.152.0/22 comment=chnroute
 add list=fal-chn address=103.237.176.0/22 comment=chnroute
 add list=fal-chn address=103.237.180.0/22 comment=chnroute
