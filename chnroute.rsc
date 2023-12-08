@@ -5362,6 +5362,7 @@ add list=fal-chn address=113.130.96.0/20 comment=chnroute
 add list=fal-chn address=113.130.112.0/21 comment=chnroute
 add list=fal-chn address=113.132.0.0/14 comment=chnroute
 add list=fal-chn address=113.136.0.0/13 comment=chnroute
+add list=fal-chn address=113.192.40.0/23 comment=chnroute
 add list=fal-chn address=113.194.0.0/15 comment=chnroute
 add list=fal-chn address=113.197.100.0/22 comment=chnroute
 add list=fal-chn address=113.200.0.0/15 comment=chnroute
