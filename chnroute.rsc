@@ -2513,6 +2513,7 @@ add list=fal-chn address=103.40.44.0/22 comment=chnroute
 add list=fal-chn address=103.40.88.0/22 comment=chnroute
 add list=fal-chn address=103.40.100.0/22 comment=chnroute
 add list=fal-chn address=103.40.158.0/23 comment=chnroute
+add list=fal-chn address=103.40.174.0/23 comment=chnroute
 add list=fal-chn address=103.40.192.0/22 comment=chnroute
 add list=fal-chn address=103.40.212.0/22 comment=chnroute
 add list=fal-chn address=103.40.220.0/22 comment=chnroute
