@@ -5925,6 +5925,7 @@ add list=fal-chn address=123.99.128.0/17 comment=chnroute
 add list=fal-chn address=123.100.0.0/19 comment=chnroute
 add list=fal-chn address=123.101.0.0/16 comment=chnroute
 add list=fal-chn address=123.103.0.0/17 comment=chnroute
+add list=fal-chn address=123.108.88.0/23 comment=chnroute
 add list=fal-chn address=123.108.128.0/20 comment=chnroute
 add list=fal-chn address=123.108.208.0/20 comment=chnroute
 add list=fal-chn address=123.112.0.0/12 comment=chnroute
