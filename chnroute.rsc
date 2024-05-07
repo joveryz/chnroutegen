@@ -3733,7 +3733,6 @@ add list=fal-chn address=103.123.56.0/22 comment=chnroute
 add list=fal-chn address=103.123.88.0/22 comment=chnroute
 add list=fal-chn address=103.123.92.0/22 comment=chnroute
 add list=fal-chn address=103.123.116.0/22 comment=chnroute
-add list=fal-chn address=103.123.160.0/22 comment=chnroute
 add list=fal-chn address=103.123.176.0/22 comment=chnroute
 add list=fal-chn address=103.123.200.0/22 comment=chnroute
 add list=fal-chn address=103.123.204.0/22 comment=chnroute
