@@ -6317,6 +6317,7 @@ add list=fal-chn address=163.53.188.0/22 comment=chnroute
 add list=fal-chn address=163.53.240.0/22 comment=chnroute
 add list=fal-chn address=163.61.62.0/23 comment=chnroute
 add list=fal-chn address=163.61.113.0/24 comment=chnroute
+add list=fal-chn address=163.61.178.0/23 comment=chnroute
 add list=fal-chn address=163.125.0.0/16 comment=chnroute
 add list=fal-chn address=163.142.0.0/16 comment=chnroute
 add list=fal-chn address=163.177.0.0/16 comment=chnroute
