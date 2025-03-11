@@ -6325,6 +6325,7 @@ add list=fal-chn address=163.179.0.0/16 comment=chnroute
 add list=fal-chn address=163.204.0.0/16 comment=chnroute
 add list=fal-chn address=163.223.28.0/23 comment=chnroute
 add list=fal-chn address=163.223.32.0/23 comment=chnroute
+add list=fal-chn address=163.223.68.0/23 comment=chnroute
 add list=fal-chn address=163.228.0.0/16 comment=chnroute
 add list=fal-chn address=164.52.0.0/17 comment=chnroute
 add list=fal-chn address=166.111.0.0/16 comment=chnroute
