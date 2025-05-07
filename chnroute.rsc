@@ -6330,6 +6330,7 @@ add list=fal-chn address=163.227.78.0/23 comment=chnroute
 add list=fal-chn address=163.227.80.0/23 comment=chnroute
 add list=fal-chn address=163.228.0.0/16 comment=chnroute
 add list=fal-chn address=164.52.0.0/17 comment=chnroute
+add list=fal-chn address=165.99.4.0/24 comment=chnroute
 add list=fal-chn address=166.111.0.0/16 comment=chnroute
 add list=fal-chn address=167.139.0.0/16 comment=chnroute
 add list=fal-chn address=167.189.0.0/16 comment=chnroute
