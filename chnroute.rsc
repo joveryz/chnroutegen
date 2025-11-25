@@ -6079,6 +6079,7 @@ add list=fal-chn address=144.48.252.0/22 comment=chnroute
 add list=fal-chn address=144.52.0.0/16 comment=chnroute
 add list=fal-chn address=144.79.4.0/23 comment=chnroute
 add list=fal-chn address=144.79.10.0/23 comment=chnroute
+add list=fal-chn address=144.79.28.0/23 comment=chnroute
 add list=fal-chn address=144.123.0.0/16 comment=chnroute
 add list=fal-chn address=144.255.0.0/16 comment=chnroute
 add list=fal-chn address=146.56.192.0/18 comment=chnroute
