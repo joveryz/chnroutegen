@@ -6223,6 +6223,7 @@ add list=fal-chn address=150.242.244.0/22 comment=chnroute
 add list=fal-chn address=150.242.248.0/22 comment=chnroute
 add list=fal-chn address=150.248.0.0/16 comment=chnroute
 add list=fal-chn address=150.255.0.0/16 comment=chnroute
+add list=fal-chn address=151.158.14.0/23 comment=chnroute
 add list=fal-chn address=152.104.128.0/17 comment=chnroute
 add list=fal-chn address=152.136.0.0/16 comment=chnroute
 add list=fal-chn address=153.0.0.0/16 comment=chnroute
